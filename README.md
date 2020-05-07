@@ -1,4 +1,5 @@
-# Here is thw tutorial i followed 
+# Here is the tutorial i followed 
+
  [Flutter Chat UI Tutorial | Apps From Scratch](https://youtu.be/h-igXZCCrrc)
 
 -the code :
